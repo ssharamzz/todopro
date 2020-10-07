@@ -1,0 +1,68 @@
+html, body, #root {
+    height: 100%;
+}
+.project_title {
+    font-size: 30px;
+    font-weight: 600;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+    color: #00b3fe;
+}
+#menu {
+    width: 256px;
+    float: left;
+    height: 100%;
+}
+#content {
+    float: left;
+    height: 100%;
+    width: 900px;
+    margin-left: 50px;
+    padding-top: 50px;
+}
+#del_btn {
+    border-radius: 30px;
+}
+#add_btn {
+    margin-left: 830px;
+    margin-bottom: 20px;
+}
+#detail_btn {
+    margin-left: 720px;
+    margin-bottom: 20px;
+}
+#delete {
+    margin-left: 10px;
+}
+#end, #inprogress, #pending {
+    width: 33%;
+    float: left;
+    padding: 20px;
+}
+#add_title {
+    font-weight: 600;
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+#submit {
+    float: left;
+    margin-left: 180px;
+    margin-top: 30px;
+}
+#cancle {
+    float: left;
+    margin-left: 10px;
+    margin-top: 30px;
+}
+#login_success {
+    margin-left: 800px;
+    margin-bottom: 20px;
+}
+#login_fail {
+    margin-left: 720px;
+    margin-bottom: 20px;
+}
+#signup {
+    margin-left: 10px;
+}

@@ -1,0 +1,10 @@
+div {
+    font-size: 25px;
+    font-weight: 600;
+}
+img {
+    width: 45px;
+    height: 45px;
+    border-radius: 30px;
+    margin: 10px;
+}
